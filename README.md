@@ -21,7 +21,7 @@ Founder of **[Everybyte Nusantara](https://everybytenusantara.com)**, helping In
 
 - 🤖 Specializing in **AI Agent development**, RAG pipelines, and LLM integration
 - 🌿 Building **edge AI systems** for agriculture and industrial IoT
-=- 🏆 **Best Capstone Project** - Bangkit Academy 2023 (Google, Tokopedia, Gojek, Traveloka)
+- 🏆 **Best Capstone Project** Bangkit Academy 2023 (Google, Tokopedia, Gojek, Traveloka)
 
 ## Tech Stack
 
