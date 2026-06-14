@@ -46,8 +46,10 @@ Founder of **[Everybyte Nusantara](https://everybytenusantara.com)**, helping In
 
 **AI Engineering**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LLM](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![RAG](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=flat&logoColor=white)
 
 **Cloud & DevOps**
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
