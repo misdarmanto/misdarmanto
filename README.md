@@ -62,19 +62,6 @@ Founder of **[Everybyte Nusantara](https://everybytenusantara.com)**, helping In
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Misdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misdarmanto&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1A56DB&icon_color=1A56DB&text_color=374151&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misdarmanto&layout=compact&hide_border=true&count_private=true&title_color=1A56DB&text_color=374151&bg_color=ffffff)
-
-</div>
-
----
 
 <div align="center">
 
