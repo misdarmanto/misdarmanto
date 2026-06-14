@@ -17,12 +17,11 @@
 
 Full Stack, AI, and IoT Engineer with 5+ years of experience shipping real products — from multi-tenant SaaS platforms and LLM-powered apps to edge AI systems running on embedded hardware.
 
-Founder of **[Everybyte Nusantara](https://misdar-dev.web.app)**, helping Indonesian SMEs replace manual processes with real software.
+Founder of **[Everybyte Nusantara](https://everybytenusantara.com)**, helping Indonesian SMEs replace manual processes with real software.
 
 - 🤖 Specializing in **AI Agent development**, RAG pipelines, and LLM integration
 - 🌿 Building **edge AI systems** for agriculture and industrial IoT
-- 🏗️ Experienced in **multi-tenant SaaS architecture** and cloud-native deployment
-- 🏆 **Best Capstone Project** - Bangkit Academy 2023 (Google, Tokopedia, Gojek, Traveloka)
+=- 🏆 **Best Capstone Project** - Bangkit Academy 2023 (Google, Tokopedia, Gojek, Traveloka)
 
 ## Tech Stack
 
@@ -67,9 +66,9 @@ Founder of **[Everybyte Nusantara](https://misdar-dev.web.app)**, helping Indone
 
 <div align="center">
 
-![Misdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misdarmanto&show_icons=true&theme=default&hide_border=true&title_color=1A56DB&icon_color=1A56DB&text_color=374151&bg_color=ffffff)
+![Misdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misdarmanto&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1A56DB&icon_color=1A56DB&text_color=374151&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misdarmanto&layout=compact&hide_border=true&title_color=1A56DB&text_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misdarmanto&layout=compact&hide_border=true&count_private=true&title_color=1A56DB&text_color=374151&bg_color=ffffff)
 
 </div>
 
